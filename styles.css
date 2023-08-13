@@ -1,0 +1,80 @@
+/* Body and Header Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #00B4E9; /* Cyan */
+    color: #fff;
+    padding: 100px 0;
+}
+
+.header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 18px;
+    margin: 0;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #FF006E; /* Magenta */
+    padding: 20px 0;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #333;
+    font-size: 16px;
+    padding: 10px 15px;
+}
+
+/* Bio Section Styles */
+.bio-section {
+    padding: 50px 0;
+}
+
+/* Portfolio Section Styles */
+.portfolio-section {
+    padding: 50px 0;
+    background-color: #FFFF66; /* Yellow */
+}
+
+.portfolio-section a {
+    background-color: #FF006E; /* Magenta */
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/* Elevator Pitch Section Styles */
+.elevator-pitch-section {
+    padding: 50px 0;
+    background-color: #FFFF66; /* Yellow */
+}
+
+/* Contact Section Styles */
+.contact-section {
+    padding: 50px 0;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
